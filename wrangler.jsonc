@@ -1,0 +1,8 @@
+{
+  "name": "js13kgames-assets",
+  "workers_dev": false,
+  "compatibility_date": "2025-10-11",
+  "assets": {
+    "directory": "./public"
+  }
+}
